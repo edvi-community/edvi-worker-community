@@ -1,0 +1,17 @@
+edvi_venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.edvi/
+.env
+.env.*
+!.env.example
+.DS_Store
+sites/
+deploy/website/
+deploy/*.before-website
+deploy/website-blocks.txt
+backups/
